@@ -1,13 +1,9 @@
-/*  JavaScript Document                      */
-/*  Written by Chris Converse for lynda.com  */
-
 var panelWidth = 0;
 var startPanel = 2;
 
-/* progressive enhancement */
 $('.sp .tabs').css('display', 'block');
 $('.sp .panel_container .panel').css({
-   'position': 'absolute',
+   'position': 'absolwute',
    'height': '400px'
 });
 $('.sp .panel_container .panels').css({
